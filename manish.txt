@@ -1,0 +1,3 @@
+String Variable 1: Manish Joshi
+Bool Variable 2: true
+Number Variable 3: 123
